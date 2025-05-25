@@ -1,6 +1,6 @@
 // pages/index.tsx (for Pages Router) OR app/page.tsx (for App Router)
 import React, { useState } from 'react';
-import VoiceCommandButton from '../components/ui/VoiceCommandButton';
+import VoiceCommandButton from '@/components/ui/voice_command_button';
 
 interface VoiceCommandResponse {
   transcript: string;
