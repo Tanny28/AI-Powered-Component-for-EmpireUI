@@ -1,0 +1,49 @@
+{
+  "name": "voice-command-button-empireui",
+  "version": "1.0.0",
+  "description": "AI-powered Voice Command Button component for EmpireUI",
+  "main": "components/ui/VoiceCommandButton.tsx",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.0",
+    "formidable": "^3.5.0",
+    "next": "^14.0.0",
+    "openai": "^4.20.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/formidable": "^3.4.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "voice",
+    "ai",
+    "openai",
+    "whisper",
+    "gpt-4",
+    "nextjs",
+    "react",
+    "empireui",
+    "component",
+    "ui"
+  ],
+  "author": "EmpireUI Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/empireui/voice-command-button"
+  }
+}
