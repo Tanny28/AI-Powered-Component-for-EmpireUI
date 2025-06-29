@@ -19,8 +19,7 @@ An AI-powered microphone component that listens to your voice, transcribes it us
 
 ## 🚀 Live Demo
 
-🧪 [Visit the demo page]([https://your-vercel-url.vercel.app/demo](https://ai-powered-component-for-empire-ui.vercel.app/)  
-*(Replace with your Vercel link)*
+🧪 [Visit the demo page](https://ai-powered-component-for-empire-ui.vercel.app/)
 
 Or run locally:  
 `http://localhost:3000/demo`
